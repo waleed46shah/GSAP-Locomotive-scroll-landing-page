@@ -1,34 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Smooth Cats Website Built with NextJs 13 • GSAP • Locomotive Scroll • GSAP Scrolltrigger
 
-## Getting Started
+Welcome to the repository for our dynamic and engaging website built using GSAP, Locomotive Scroll, Next.js, and GSAP ScrollTrigger! This project showcases the seamless integration of cutting-edge web development technologies to create a captivating user experience.
 
-First, run the development server:
+## Technologies Used
+- **GSAP (GreenSock Animation Platform):** For animations
+- **Locomotive Scroll:** To implement smooth scroll effect used in awwwards winning website
+- **Next.js:** For main development
+- **GSAP ScrollTrigger:** To trigger animations on a specific position of the scroll
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Key Features
+- 🎥 **Fluid Animations:** Enjoy the fluidity of animations powered by GSAP, adding a dynamic and polished look to your website's UI.
+- 🚀 **Seamless Scrolling:** Benefit from the smooth scrolling provided by Locomotive Scroll, ensuring a delightful scrolling experience.
+- 🌐 **Efficient Routing:** Thanks to Next.js, your website loads quickly, enhancing user engagement and SEO optimization.
+- 📜 **Scroll-Driven Storytelling:** Utilize GSAP ScrollTrigger to craft captivating scroll-driven animations and create an immersive narrative for your content.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Live Demo
+https://smoothcats.vercel.app/
